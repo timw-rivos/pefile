@@ -17,7 +17,7 @@ Copyright (c) 2005-2024 Ero Carrera <ero.carrera@gmail.com>
 """
 
 __author__ = "Ero Carrera"
-__version__ = "2024.8.26"
+__version__ = "2024.9.13"
 __contact__ = "ero.carrera@gmail.com"
 
 import codecs

@@ -59,8 +59,8 @@ setup(
     description="Python PE parsing module",
     author=_read_attr("__author__"),
     author_email=_read_attr("__contact__"),
-    url="https://github.com/erocarrera/pefile",
-    download_url="https://github.com/erocarrera/pefile/releases/download/v2024.8.26/pefile-2024.8.26.tar.gz",
+    url="https://github.com/tiwm-rivos/pefile",
+    download_url="https://github.com/timw-rivos/pefile/archive/refs/heads/no-break.tar.gz",
     keywords=["pe", "exe", "dll", "pefile", "pecoff"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
